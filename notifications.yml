@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    consumer:
+      group-id: app.1
+    bootstrap-servers: http://127.0.0.1:9092
